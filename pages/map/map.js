@@ -35,7 +35,7 @@ Page( {
     })
     var that = this;
     var BMap = new bmap.BMapWX({
-      ak: 'hadDaukDFocq0vGFVXY6iTBhhWUEyNGt'
+      ak: 'y7sZIGW9GZC0oIIf9nYy4hLXimk24bOx'
     });
     var fail = function (data) {
       console.log(data)

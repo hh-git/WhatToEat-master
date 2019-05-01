@@ -5,12 +5,14 @@
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"autoAudits": false,
+		"checkInvalidKey": true
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.91",
-	"appid": "wx2e2a251f042aad50",
-	"projectname": "WechatProject",
+	"appid": "wx6a53a9b65ead4682",
+	"projectname": "what2eat",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"condition": {

@@ -70,7 +70,7 @@
       bindtap='toAbout'>
       关于软件
     </view>
-    <view>Copyright © 2017-2018 WhatToEat</view>
+    <view>Copyright 145© 2019 what2eat145</view>
   </view>
   <template is="zan-toptips" data="{{ zanTopTips }}"></template>
 </view>
